@@ -1,0 +1,12 @@
+/*****************************************************************************/
+/* Connections on myAVR board                                                */
+/* see www.myAVR.de for product details                                      */
+/*****************************************************************************/
+
+PB0:	Key 1
+PB1:	Key 2
+
+PC0:	Sounder
+
+
+Expand connector: LCD display, MyTWI-DS1307, MyTWI-EEPROM
